@@ -1,0 +1,4 @@
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript\bin\Debug\Cyotek.GhostScript.dll
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript\bin\Debug\Cyotek.GhostScript.pdb
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript\obj\Debug\Cyotek.GhostScript.dll
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript\obj\Debug\Cyotek.GhostScript.pdb

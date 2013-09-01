@@ -1,0 +1,12 @@
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\bin\Release\PdfSharp.XML
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\bin\Release\PdfSharp.dll
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\bin\Release\PdfSharp.pdb
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\bin\Release\de\PdfSharp.resources.dll
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\PdfSharp.Forms.PagePreview.resources
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\PdfSharp.Forms.PagePreviewCanvas.resources
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\PdfSharp.Resources.Messages.resources
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\PdfSharp.Resources.Messages.de.resources
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\PdfSharp.csproj.GenerateResource.Cache
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\de\PdfSharp.resources.dll
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\PdfSharp.dll
+C:\Users\Andrey\Desktop\PDFsharp\code\PdfSharp\obj\Release\PdfSharp.pdb

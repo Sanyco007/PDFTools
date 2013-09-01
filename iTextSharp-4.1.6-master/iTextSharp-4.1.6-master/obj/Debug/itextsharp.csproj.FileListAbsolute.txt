@@ -1,0 +1,5 @@
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\bin\Debug\itextsharp.dll
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\bin\Debug\itextsharp.pdb
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\bin\Debug\iTextSharp.xml
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\obj\Debug\itextsharp.dll
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\obj\Debug\itextsharp.pdb

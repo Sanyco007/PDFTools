@@ -1,0 +1,3 @@
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\bin\Release\itextsharp.dll
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\bin\Release\iTextSharp.xml
+C:\Users\Andrey\Desktop\iTextSharp-4.1.6-master\iTextSharp-4.1.6-master\obj\Release\itextsharp.dll

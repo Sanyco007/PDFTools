@@ -1,0 +1,7 @@
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript.PdfConversion\bin\Release\Cyotek.GhostScript.PdfConversion.dll
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript.PdfConversion\bin\Release\Cyotek.GhostScript.PdfConversion.pdb
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript.PdfConversion\bin\Release\Cyotek.GhostScript.dll
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript.PdfConversion\bin\Release\Cyotek.GhostScript.pdb
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript.PdfConversion\obj\Release\Cyotek.GhostScript.PdfConversion.csprojResolveAssemblyReference.cache
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript.PdfConversion\obj\Release\Cyotek.GhostScript.PdfConversion.dll
+D:\workspace\myslivec\c#\PDFTools\Cyotek.GhostScript.PdfConversion\obj\Release\Cyotek.GhostScript.PdfConversion.pdb

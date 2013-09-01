@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Spire.PdfViewer.SL</name>
+    </assembly>
+    <members>
+        <member name="T:Spire.PdfViewer.SL.PageLayoutMode">
+            <summary>
+            PdfDocumentViewer Page display mode 
+            </summary>
+        </member>
+        <member name="T:Spire.PdfViewer.SL.ZoomMode">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Spire.PdfViewer.SL.ZoomMode.Default">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Spire.PdfViewer.SL.ZoomMode.FitPage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Spire.PdfViewer.SL.ZoomMode.FitWidth">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfViewer.SaveAsImage(System.Int32)">
+            <summary>
+            Saves page to image.
+            </summary>
+            <param name="pageNumber">Page number</param>
+            <returns></returns>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfViewer.SaveAsImage(System.Int32,System.Int32)">
+            <summary>
+            Saves page to image.
+            </summary>
+            <param name="startPageNumber">start page number</param>
+            <param name="endPageNumber">end page number</param>
+            <returns></returns>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfViewer.GoToPage(System.Int32)">
+            <summary>
+            Jump to a specified page number. 
+            </summary>
+            <param name="index">The number of the page to jump to.</param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfViewer.LoadFromStream(System.IO.Stream)">
+            <summary>
+            Load a PDF document from a Stream. 
+            </summary>
+            <param name="stream">A Stream containing a PDF document.</param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfViewer.SaveToFile(System.IO.Stream)">
+            <summary>
+            Stream to save PDF document
+            </summary>
+            <param name="stream"></param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfViewer.Print">
+            <summary>
+            Print pdf document
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfViewer.CloseDocument">
+            <summary>
+            Close current pdf document.
+            </summary>
+        </member>
+        <member name="E:Spire.PdfViewer.SL.PdfViewer.CurrentPageChange">
+            <summary>
+            Occurs when the Current Page is Change
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfViewer.FileName">
+            <summary>
+            Gets current opened pdf file name.
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfViewer.PageCount">
+            <summary>
+            Gets the current number of display pages for the content.
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfViewer.IsToolBarVisible">
+            <summary>
+            Gets or sets whether is visible of toolbar.
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfViewer.CurrentPageNumber">
+            <summary>
+            Gets the page number for the currently displayed page.
+            </summary>
+        </member>
+        <member name="E:Spire.PdfViewer.SL.PdfViewer.DocumentLoaded">
+            <summary>
+            Occurs after a document is opened.
+            </summary>
+        </member>
+        <member name="T:Spire.PdfViewer.DocumentOpenedEventHandler">
+            <summary>
+            Provides document opened events
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="T:Spire.PdfViewer.DocumentClosedEventHandler">
+            <summary>
+            Provides document closed events
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="T:Spire.PdfViewer.PageNumberChangedEventHandler">
+            <summary>
+            Provides page number changed events.
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="T:Spire.PdfViewer.ZoomChangedEventHandler">
+            <summary>
+            Provides zoom changed events
+            </summary>
+            <param name="sender"></param>
+            <param name="zoomFactor"></param>
+        </member>
+        <member name="T:Spire.PdfViewer.SL.PdfViewerMode.PdfViewerMode">
+            <summary>
+            PdfDocumentViewer display mode
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.DocumentToolbar.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.SaveToFile(System.IO.Stream)">
+            <summary>
+            Pdf document to save the file stream.
+            </summary>
+            <param name="stream"></param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.SaveAsImage(System.Int32)">
+            <summary>
+            Saves the specified page as Image
+            </summary>
+            <param name="pageNumber">The page index to be converted into image</param>
+            <returns>Returns page as BitmapSource</returns>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.SaveAsImage(System.Int32,System.Int32)">
+            <summary>
+            Exports the specified pages as Images
+            </summary>
+            <param name="startIndex">The starting page index</param>
+            <param name="endIndex">The ending page index</param>
+            <returns>Returns the specified pages as Images</returns>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.GoToFirstPage">
+            <summary>
+            Go to first page.
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.GoToLastPage">
+            <summary>
+            Go to last page.
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.GoToNextPage">
+            <summary>
+            Go to next page.
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.GoToPage(System.Int32)">
+            <summary>
+            Go to specific page.
+            </summary>
+            <param name="pageNumber">page number</param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.GoToPreviousPage">
+            <summary>
+            Go to previous page
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.LoadFromStream(System.IO.Stream)">
+            <summary>
+            Load PDF document from stream.
+            </summary>
+            <param name="stream">Data stream</param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.LoadFromStream(System.IO.Stream,Spire.PdfViewer.PDFViewMode)">
+            <summary>
+            Load PDF document from stream with a given viewMode.
+            </summary>
+            <param name="stream">Data stream</param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.CloseDocument">
+            <summary>
+            Close current pdf document.
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.UpdatePageIndex">
+            <summary>
+            更新当前页
+            </summary>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.ZoomTo(Spire.PdfViewer.SL.ZoomMode)">
+            <summary>
+            Zoom PDF document
+            </summary>
+            <param name="percentage">Zoom Mode</param>
+        </member>
+        <member name="M:Spire.PdfViewer.SL.PdfDocumentViewer.ZoomTo(System.Int32)">
+            <summary>
+            Zoom PDF document
+            </summary>
+            <param name="percentage">Zoom percentage</param>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfDocumentViewer.ViewMode">
+            <summary>
+            When viewer mode is single page mode,Gets or sets whether to jump to page after click PDF document
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfDocumentViewer.IsDocumentLoaded">
+            <summary>
+            Veryfy whether to PDF document loaded
+            </summary>
+        </member>
+        <member name="E:Spire.PdfViewer.SL.PdfDocumentViewer.PdfLoaded">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:Spire.PdfViewer.SL.PdfDocumentViewer.ZoomChanged">
+            <summary>
+            Occurs zoom changed.
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfDocumentViewer.CurrentPageNumber">
+            <summary>
+            Gets current display page number
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfDocumentViewer.PageCount">
+            <summary>
+            Get PDF document total page count
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfDocumentViewer.FileName">
+            <summary>
+            Get PDF document file name.
+            </summary>
+        </member>
+        <member name="P:Spire.PdfViewer.SL.PdfDocumentViewer.ZoomMode">
+            <summary>
+            Gets or sets the zoom mode.
+            </summary>
+        </member>
+    </members>
+</doc>
